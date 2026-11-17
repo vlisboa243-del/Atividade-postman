@@ -1,0 +1,6 @@
+Coloque nesta pasta as capturas reais dos testes, com estes nomes:
+get.png
+soma.png
+subtracao.png
+multiplicacao.png
+divisao.png

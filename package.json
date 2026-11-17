@@ -1,0 +1,21 @@
+{
+  "name": "atividade-post-nodejs",
+  "version": "1.0.0",
+  "description": "Atividade acadêmica de requisições GET e POST com Node.js e Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "get",
+    "post"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
